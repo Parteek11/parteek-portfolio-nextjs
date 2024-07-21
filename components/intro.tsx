@@ -32,7 +32,7 @@ export default function Intro() {
           >
             <Image
               src="https://i.ibb.co/PYnJ9ts/Whats-App-Image-2023-02-05-at-8-48-24-PM.jpg"
-              alt="Ricardo portrait"
+              alt="Parteek singh"
               width="192"
               height="192"
               quality="95"
