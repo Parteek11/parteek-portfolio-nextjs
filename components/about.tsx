@@ -41,7 +41,7 @@ export default function About() {
         singing songs, watching movies, and traveling . I am always curious to {" "}
         <span className="font-medium">learning new technologies</span>. I am currently
         learning about{" "}
-        <span className="font-medium">blockchain and AI tools for web development</span>. I'm also
+        <span className="font-medium">Blockchain and AI tools for web development</span>. I'm also
          solve problems on leetCode frequently.
       </p>
     </motion.section>
