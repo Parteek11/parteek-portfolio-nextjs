@@ -30,9 +30,10 @@ export default function Intro() {
               duration: 0.2,
             }}
           >
+
             <Image
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=368&h=368&q=100"
-              alt="Ricardo portrait"
+              src="https://i.ibb.co/1n5BdbY/Whats-App-Image-2023-02-05-at-8-48-24-PM.jpg"
+              alt="Parteek singh"
               width="192"
               height="192"
               quality="95"
@@ -64,9 +65,9 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Parteek singh.</span> I'm a{" "}
         <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold"> 6years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="font-bold">6 years</span> of experience. I enjoy
+        building <span className="italic">sites & apps</span>.My focus is{" "}
+        <span className="underline">React/Next.js</span>.
       </motion.h1>
 
       <motion.div
