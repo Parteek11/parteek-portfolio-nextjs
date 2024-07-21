@@ -30,10 +30,9 @@ export default function Intro() {
               duration: 0.2,
             }}
           >
-
             <Image
-              src="https://i.ibb.co/1n5BdbY/Whats-App-Image-2023-02-05-at-8-48-24-PM.jpg"
-              alt="Parteek singh"
+              src="https://i.ibb.co/PYnJ9ts/Whats-App-Image-2023-02-05-at-8-48-24-PM.jpg"
+              alt="Ricardo portrait"
               width="192"
               height="192"
               quality="95"
@@ -92,7 +91,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
+          href="https://drive.google.com/file/d/1geAQwOw7QgWT2d1RilHOxecToRKV9efx/view?usp=sharing"
           download
         >
           Download CV{" "}
